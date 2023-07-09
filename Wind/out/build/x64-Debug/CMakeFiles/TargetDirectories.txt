@@ -1,0 +1,9 @@
+C:/Dev/Wind/Wind/out/build/x64-Debug/CMakeFiles/App.dir
+C:/Dev/Wind/Wind/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Dev/Wind/Wind/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+C:/Dev/Wind/Wind/out/build/x64-Debug/glfw/CMakeFiles/edit_cache.dir
+C:/Dev/Wind/Wind/out/build/x64-Debug/glfw/CMakeFiles/rebuild_cache.dir
+C:/Dev/Wind/Wind/out/build/x64-Debug/glfw/src/CMakeFiles/update_mappings.dir
+C:/Dev/Wind/Wind/out/build/x64-Debug/glfw/src/CMakeFiles/glfw.dir
+C:/Dev/Wind/Wind/out/build/x64-Debug/glfw/src/CMakeFiles/edit_cache.dir
+C:/Dev/Wind/Wind/out/build/x64-Debug/glfw/src/CMakeFiles/rebuild_cache.dir
